@@ -10,7 +10,7 @@
 
 ### Program:
 
-###create employee table
+### create employee table
 ```
 CREATE TABLE employd (
   empid NUMBER,
